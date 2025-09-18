@@ -21,7 +21,7 @@ This project is designed to demonstrate SQL skills and techniques typically used
 
 ### 1. Database Setup
 
-- **Database Creation**: The project starts by creating a database named `superstore_orders$`.
+- **Database Creation**: The project starts by creating a database named `fortune500`.
 - **Table Creation**: The table is imported from a csv file into sql server.
 
 
