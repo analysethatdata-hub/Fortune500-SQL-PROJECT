@@ -42,20 +42,20 @@ from fortune500
 where id is null
 or    	  company is null
 or        rank is null
-or	  revenues is null
-or	  revenue_change is null
-or	  profits is null
-or	  assets is null
-or	  profit_change is null 
-or	  ceo is null
+or	  	  revenues is null
+or	      revenue_change is null
+or	      profits is null
+or	      assets is null
+or	      profit_change is null 
+or	      ceo is null
 or        industry is null 
-or	  sector is null
-or	  previous_rank is null
-or	  country is null
-or	  hq_location is null
-or	  website is null
-or	  years_on_global_500_list is null
-or	  employees is null
+or	      sector is null
+or	      previous_rank is null
+or	      country is null
+or	      hq_location is null
+or	      website is null
+or	      years_on_global_500_list is null
+or	      employees is null
 or        total_stockholder_equity is null
 
 
@@ -68,7 +68,7 @@ select distinct company from fortune500--500
 
 select distinct sector from fortune500--21
 
-select distinct industry from fortune500--500
+select distinct industry from fortune500--58
 
 select distinct country from fortune500--34
 
