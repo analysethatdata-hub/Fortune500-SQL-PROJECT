@@ -110,7 +110,7 @@ order by assets desc
 
 4. **SQL Query to find Revenues by sector**:
 ```sql
-		select sector,sum(revenues) as revenues
+select sector,sum(revenues) as revenues
 from fortune500
 group by sector
 order by revenues desc
