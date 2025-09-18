@@ -32,7 +32,9 @@ This project is designed to demonstrate SQL skills and techniques typically used
 - **Industry Count**: Identify all unique industries in the dataset.
 - **Null Value Check**: Check for any null values in the dataset and delete records with missing data.
 - **Sector Count**:Find out how many unique sectors are in the dataset.
-- **Countries**:Find out how many unique countries in the dataset.
+- **Countries Count**:Find out how many unique countries in the dataset.
+- **Headquarters Count**:Find out how many unique Headquarters location in the dataset.
+- **Duplicate Value Check**: Check for any Duplicate values in the dataset and delete records dataset.
 
 
 ```sql
